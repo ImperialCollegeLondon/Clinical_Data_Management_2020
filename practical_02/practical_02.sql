@@ -1,0 +1,2 @@
+USE classicmodels;
+SHOW tables;

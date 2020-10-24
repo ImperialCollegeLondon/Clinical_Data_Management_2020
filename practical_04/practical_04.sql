@@ -13,4 +13,4 @@ FROM employees;
 -- Show indexes used by table customers
 
 
--- What data structure do these indexex use?
+-- What data structure do these indexes use?
